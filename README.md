@@ -1,0 +1,1 @@
+# currencies_equality_rate
